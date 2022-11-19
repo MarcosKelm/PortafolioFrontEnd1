@@ -1,0 +1,11 @@
+.navbar.navbar-expand-lg.bg-dark{
+    background-color:blueviolet !important;
+}
+
+i.fa-brands.fa-instagram.fa-2x1:hover{
+    color:blue;
+}
+.list-group {
+    --bs-list-group-bg: transparent;  
+    --bs-list-group-border-color: none;
+}
