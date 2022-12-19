@@ -4,6 +4,13 @@ body{
     background-repeat: no-repeat;
 }
 
+.carousel.slide{
+    height: 10%;
+    width:100%; 
+    color:#fff;
+  
+}
+
 .navbar.navbar-expand-lg.bg-dark{
     background-color:blueviolet !important;
 }
@@ -42,6 +49,11 @@ section.about{
     background-repeat: no-repeat;
     background-size: 100%;
     color: #fff;
-
-
 }
+section.panel{
+    margin-top: 9rem;
+}
+section.columnas{
+    margin-top: 9rem;
+}
+
